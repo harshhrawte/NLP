@@ -1,6 +1,6 @@
 # NLP PDF Table Extractor
 
-A Python-based tool that extracts and structures tabular data from PDF documents using Natural Language Processing techniques. This project automatically downloads PDFs from Google Drive, extracts text content, and intelligently identifies and formats tables into structured JSON output.
+A Python-based tool that extracts and structures tabular data from PDF documents using Natural Language Processing techniques. This project automatically downloads PDFs from Google Drive, extracts text content, and intelligently identifies and formats tables into a well-structured JSON output 
 
 ## 🚀 Features
 
